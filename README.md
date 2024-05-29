@@ -2,7 +2,7 @@
 
 This repository contains all data used to produce the results in the following paper:
 
-`Pre-selection of assets for cardinality constrained index tracking portfolios`
+**Pre-selection of assets for cardinality constrained index tracking portfolios**
 
 The market data used in the paper consists of S&P500 assets, with prices ranging from 03 January 2005 up to 29 December 2023. The data accounts for survivalship buas and is organised in three files:
 
