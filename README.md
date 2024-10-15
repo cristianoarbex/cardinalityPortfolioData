@@ -30,3 +30,5 @@ The market data used in the paper consists of S&P500 assets, with prices ranging
  -  `SP500_daily.csv`: A csv file containing daily prices for the S&P500 and every asset in `assets.csv`. We use the **TICKER** as asset identifier (column names in the csv). A missing price means that the price did not exist at the time. A negative price means that the asset was not part of the S&P500 at the time.
 
  -  `SP500_weekly.csv`: A csv file containing weekly prices for the S&P500 and every asset in `assets.csv`. The format is the same as the file with the daily prices.
+
+ - `otherIndices.xlsx`: A XLS file containing, in each tab, prices for other indices that are used throughout the paper.
